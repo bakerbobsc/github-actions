@@ -2,9 +2,9 @@
 
 <img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
 
-Yay **bakerbobsc** you finished the exercise! Nice work :tada:
+Hey Bob,
 
-If you would like to retrace your steps, you can always revisit the exercise.
+I'm done preparing your exercise. Hope you enjoy! 💚
 
 [![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/bakerbobsc/github-actions/issues/1)
 
